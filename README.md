@@ -7,11 +7,11 @@ Tested up to: 6.2
 Requires PHP: 7.2
 Stable tag: 1.0.0
 
-This plugin forces users to verify their email addresses within 5 minutes after account creation or checkout.
+This plugin forces users to verify their email addresses after 5 minutes after account creation or checkout.
 
 == Description ==
 
-WooCommerce Email Verification After Checkout is a plugin designed to ensure that users verify their email addresses within 5 minutes of account creation or checkout. If users fail to verify their email within the allotted time, they will be prompted to verify their email address upon attempting to log in.
+WooCommerce Email Verification After Checkout is a plugin designed to ensure that users verify their email addresses after 5 minutes of account creation or checkout. If users fail to verify their email within the allotted time, they will be prompted to verify their email address upon attempting to log in.
 
 = Features =
 * Sends verification email upon account creation or checkout.
@@ -42,11 +42,6 @@ The user will be prompted to verify their email address upon attempting to log i
 = Can the verification email be customized? =
 Yes, you can customize the email subject and body in the plugin settings.
 
-== Screenshots ==
-
-1. Screenshot of the verification email.
-2. Screenshot of the verification prompt on login.
-3. Screenshot of the verified users list in the admin dashboard.
 
 == Changelog ==
 
