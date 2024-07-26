@@ -1,4 +1,5 @@
 === WooCommerce Email Verification After Checkout ===
+
 Contributors: RB Soikot
 Donate link: buymeacoffee.com/rbsoikot
 Tags: woocommerce, email verification, checkout, user verification
