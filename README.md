@@ -1,11 +1,16 @@
 === WooCommerce Email Verification After Checkout ===
 
 Contributors: RB Soikot
+
 Donate link: buymeacoffee.com/rbsoikot
+
 Tags: woocommerce, email verification, checkout, user verification
 Requires at least: 5.0
+
 Tested up to: 6.2
+
 Requires PHP: 7.2
+
 Stable tag: 1.0.0
 
 This plugin forces users to verify their email addresses after 5 minutes after account creation or checkout.
