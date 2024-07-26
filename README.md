@@ -1,6 +1,6 @@
 === WooCommerce Email Verification After Checkout ===
 Contributors: RB Soikot
-Donate link: 
+Donate link: buymeacoffee.com/rbsoikot
 Tags: woocommerce, email verification, checkout, user verification
 Requires at least: 5.0
 Tested up to: 6.2
